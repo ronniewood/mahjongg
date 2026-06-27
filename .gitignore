@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Production builds
+dist/
+.next/
+out/
+
+# IDEs and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Future iOS & Build tools
+*.log
+.turbo/
